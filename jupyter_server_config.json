@@ -1,0 +1,13 @@
+{
+  "LanguageServerManager": {
+    "language_servers": {
+      "jedi-language-server": {
+        "version": 2,
+        "argv": ["/home/sjp/venvs/ml/lib/python3.11/site-packages/jedi-language-server", "--stdio"],
+        "languages": ["python"],
+        "mime_types": ["text/language", "text/x-language"],
+        "display_name": "Jedi-Python LSP"
+      }
+    }
+  }
+}
